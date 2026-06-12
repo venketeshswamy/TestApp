@@ -1,0 +1,761 @@
+CaseStudyNo,Qno,Chapter
+1,1,Unit 1: Forensic Accounting and Fraud Detection
+1,2,Unit 1: Forensic Accounting and Fraud Detection
+1,3,Unit 1: Forensic Accounting and Fraud Detection
+1,4,Unit 1: Forensic Accounting and Fraud Detection
+1,5,Unit 1: Forensic Accounting and Fraud Detection
+1,6,Unit 1: Forensic Accounting and Fraud Detection
+1,7,Unit 1: Forensic Accounting and Fraud Detection
+1,8,Unit 1: Forensic Accounting and Fraud Detection
+1,9,Unit 1: Forensic Accounting and Fraud Detection
+1,10,Unit 1: Forensic Accounting and Fraud Detection
+1,11,Unit 1: Forensic Accounting and Fraud Detection
+1,12,Unit 1: Forensic Accounting and Fraud Detection
+1,13,Unit 1: Forensic Accounting and Fraud Detection
+1,14,Unit 1: Forensic Accounting and Fraud Detection
+1,15,Unit 1: Forensic Accounting and Fraud Detection
+1,16,Unit 1: Forensic Accounting and Fraud Detection
+1,17,Unit 1: Forensic Accounting and Fraud Detection
+1,18,Unit 1: Forensic Accounting and Fraud Detection
+1,19,Unit 1: Forensic Accounting and Fraud Detection
+1,20,Unit 1: Forensic Accounting and Fraud Detection
+1,21,Unit 2: Basics of Digital Forensic and Cyber Security
+1,22,Unit 2: Basics of Digital Forensic and Cyber Security
+1,23,Unit 2: Basics of Digital Forensic and Cyber Security
+1,24,Unit 2: Basics of Digital Forensic and Cyber Security
+1,25,Unit 2: Basics of Digital Forensic and Cyber Security
+1,26,Unit 2: Basics of Digital Forensic and Cyber Security
+1,27,Unit 2: Basics of Digital Forensic and Cyber Security
+1,28,Unit 2: Basics of Digital Forensic and Cyber Security
+1,29,Unit 2: Basics of Digital Forensic and Cyber Security
+1,30,Unit 2: Basics of Digital Forensic and Cyber Security
+1,31,Unit 3: Robotic Process Automation (RPA)
+1,32,Unit 3: Robotic Process Automation (RPA)
+1,33,Unit 3: Robotic Process Automation (RPA)
+1,34,Unit 3: Robotic Process Automation (RPA)
+1,35,Unit 3: Robotic Process Automation (RPA)
+1,36,Unit 3: Robotic Process Automation (RPA)
+1,37,Unit 3: Robotic Process Automation (RPA)
+1,38,Unit 3: Robotic Process Automation (RPA)
+1,39,Unit 3: Robotic Process Automation (RPA)
+1,40,Unit 3: Robotic Process Automation (RPA)
+1,41,Unit 4: Oracle Fusion ERP
+1,42,Unit 4: Oracle Fusion ERP
+1,43,Unit 4: Oracle Fusion ERP
+1,44,Unit 4: Oracle Fusion ERP
+1,45,Unit 4: Oracle Fusion ERP
+1,46,Unit 4: Oracle Fusion ERP
+1,47,Unit 4: Oracle Fusion ERP
+1,48,Unit 4: Oracle Fusion ERP
+1,49,Unit 4: Oracle Fusion ERP
+1,50,Unit 4: Oracle Fusion ERP
+1,51,Unit 5: Microsoft Dynamics 365
+1,52,Unit 5: Microsoft Dynamics 365
+1,53,Unit 5: Microsoft Dynamics 365
+1,54,Unit 5: Microsoft Dynamics 365
+1,55,Unit 5: Microsoft Dynamics 365
+1,56,Unit 5: Microsoft Dynamics 365
+1,57,Unit 5: Microsoft Dynamics 365
+1,58,Unit 5: Microsoft Dynamics 365
+1,59,Unit 5: Microsoft Dynamics 365
+1,60,Unit 5: Microsoft Dynamics 365
+1,61,Unit 5: Microsoft Dynamics 365
+1,62,Unit 5: Microsoft Dynamics 365
+1,63,Unit 5: Microsoft Dynamics 365
+1,64,Unit 5: Microsoft Dynamics 365
+1,65,Unit 5: Microsoft Dynamics 365
+1,66,Unit 5: Microsoft Dynamics 365
+1,67,Unit 5: Microsoft Dynamics 365
+1,68,Unit 5: Microsoft Dynamics 365
+1,69,Unit 5: Microsoft Dynamics 365
+1,70,Unit 5: Microsoft Dynamics 365
+1,71,Unit 5: Microsoft Dynamics 365
+1,72,Unit 5: Microsoft Dynamics 365
+1,73,Unit 5: Microsoft Dynamics 365
+1,74,Unit 5: Microsoft Dynamics 365
+1,75,Unit 5: Microsoft Dynamics 365
+1,76,Unit 5: Microsoft Dynamics 365
+1,77,Unit 5: Microsoft Dynamics 365
+1,78,Unit 5: Microsoft Dynamics 365
+1,79,Unit 5: Microsoft Dynamics 365
+1,80,Unit 5: Microsoft Dynamics 365
+1,81,Unit 5: Microsoft Dynamics 365
+1,82,Unit 5: Microsoft Dynamics 365
+1,83,Unit 5: Microsoft Dynamics 365
+1,84,Unit 5: Microsoft Dynamics 365
+1,85,Unit 5: Microsoft Dynamics 365
+1,86,Unit 5: Microsoft Dynamics 365
+1,87,Unit 5: Microsoft Dynamics 365
+1,88,Unit 5: Microsoft Dynamics 365
+1,89,Unit 5: Microsoft Dynamics 365
+1,90,Unit 5: Microsoft Dynamics 365
+1,91,Unit 5: Microsoft Dynamics 365
+1,92,Unit 5: Microsoft Dynamics 365
+1,93,Unit 5: Microsoft Dynamics 365
+1,94,Unit 5: Microsoft Dynamics 365
+1,95,Unit 5: Microsoft Dynamics 365
+1,96,Unit 5: Microsoft Dynamics 365
+1,97,Unit 5: Microsoft Dynamics 365
+1,98,Unit 5: Microsoft Dynamics 365
+1,99,Unit 5: Microsoft Dynamics 365
+1,100,Unit 5: Microsoft Dynamics 365
+1,101,Unit 5: Microsoft Dynamics 365
+1,102,Unit 5: Microsoft Dynamics 365
+1,103,Unit 5: Microsoft Dynamics 365
+1,104,Unit 5: Microsoft Dynamics 365
+1,105,Unit 5: Microsoft Dynamics 365
+1,106,Unit 5: Microsoft Dynamics 365
+1,107,Unit 5: Microsoft Dynamics 365
+1,108,Unit 5: Microsoft Dynamics 365
+1,109,Unit 5: Microsoft Dynamics 365
+1,110,Unit 5: Microsoft Dynamics 365
+1,111,Unit 5: Microsoft Dynamics 365
+1,112,Unit 5: Microsoft Dynamics 365
+1,113,Unit 5: Microsoft Dynamics 365
+1,114,Unit 5: Microsoft Dynamics 365
+1,115,Unit 5: Microsoft Dynamics 365
+1,116,Unit 5: Microsoft Dynamics 365
+1,117,Unit 5: Microsoft Dynamics 365
+1,118,Unit 5: Microsoft Dynamics 365
+1,119,Unit 5: Microsoft Dynamics 365
+1,120,Unit 5: Microsoft Dynamics 365
+1,121,Unit 5: Microsoft Dynamics 365
+1,122,Unit 5: Microsoft Dynamics 365
+1,123,Unit 5: Microsoft Dynamics 365
+1,124,Unit 5: Microsoft Dynamics 365
+1,125,Unit 5: Microsoft Dynamics 365
+1,126,Unit 5: Microsoft Dynamics 365
+1,127,Unit 5: Microsoft Dynamics 365
+1,128,Unit 5: Microsoft Dynamics 365
+1,129,Unit 5: Microsoft Dynamics 365
+1,130,Unit 5: Microsoft Dynamics 365
+1,131,Unit 5: Microsoft Dynamics 365
+1,132,Unit 5: Microsoft Dynamics 365
+1,133,Unit 5: Microsoft Dynamics 365
+1,134,Unit 5: Microsoft Dynamics 365
+1,135,Unit 5: Microsoft Dynamics 365
+1,136,Unit 5: Microsoft Dynamics 365
+1,137,Unit 5: Microsoft Dynamics 365
+1,138,Unit 5: Microsoft Dynamics 365
+1,139,Unit 5: Microsoft Dynamics 365
+1,140,Unit 5: Microsoft Dynamics 365
+1,141,Unit 2: Basics of Digital Forensic and Cyber Security
+1,142,Unit 2: Basics of Digital Forensic and Cyber Security
+1,143,Unit 2: Basics of Digital Forensic and Cyber Security
+1,144,Unit 2: Basics of Digital Forensic and Cyber Security
+1,145,Unit 2: Basics of Digital Forensic and Cyber Security
+1,146,Unit 2: Basics of Digital Forensic and Cyber Security
+1,147,Unit 2: Basics of Digital Forensic and Cyber Security
+1,148,Unit 2: Basics of Digital Forensic and Cyber Security
+1,149,Unit 2: Basics of Digital Forensic and Cyber Security
+1,150,Unit 2: Basics of Digital Forensic and Cyber Security
+1,151,Unit 2: Basics of Digital Forensic and Cyber Security
+1,152,Unit 2: Basics of Digital Forensic and Cyber Security
+1,153,Unit 2: Basics of Digital Forensic and Cyber Security
+1,154,Unit 2: Basics of Digital Forensic and Cyber Security
+1,155,Unit 2: Basics of Digital Forensic and Cyber Security
+1,156,Unit 2: Basics of Digital Forensic and Cyber Security
+1,157,Unit 2: Basics of Digital Forensic and Cyber Security
+1,158,Unit 2: Basics of Digital Forensic and Cyber Security
+1,159,Unit 2: Basics of Digital Forensic and Cyber Security
+1,160,Unit 2: Basics of Digital Forensic and Cyber Security
+1,161,Unit 2: Basics of Digital Forensic and Cyber Security
+1,162,Unit 2: Basics of Digital Forensic and Cyber Security
+1,163,Unit 2: Basics of Digital Forensic and Cyber Security
+1,164,Unit 2: Basics of Digital Forensic and Cyber Security
+1,165,Unit 2: Basics of Digital Forensic and Cyber Security
+1,166,Unit 2: Basics of Digital Forensic and Cyber Security
+1,167,Unit 2: Basics of Digital Forensic and Cyber Security
+1,168,Unit 2: Basics of Digital Forensic and Cyber Security
+1,169,Unit 2: Basics of Digital Forensic and Cyber Security
+1,170,Unit 2: Basics of Digital Forensic and Cyber Security
+1,171,Unit 2: Basics of Digital Forensic and Cyber Security
+1,172,Unit 2: Basics of Digital Forensic and Cyber Security
+1,173,Unit 2: Basics of Digital Forensic and Cyber Security
+1,174,Unit 2: Basics of Digital Forensic and Cyber Security
+1,175,Unit 2: Basics of Digital Forensic and Cyber Security
+1,176,Unit 2: Basics of Digital Forensic and Cyber Security
+1,177,Unit 2: Basics of Digital Forensic and Cyber Security
+1,178,Unit 2: Basics of Digital Forensic and Cyber Security
+1,179,Unit 2: Basics of Digital Forensic and Cyber Security
+1,180,Unit 2: Basics of Digital Forensic and Cyber Security
+1,181,Unit 3: Robotic Process Automation (RPA)
+1,182,Unit 3: Robotic Process Automation (RPA)
+1,183,Unit 3: Robotic Process Automation (RPA)
+1,184,Unit 3: Robotic Process Automation (RPA)
+1,185,Unit 3: Robotic Process Automation (RPA)
+1,186,Unit 3: Robotic Process Automation (RPA)
+1,187,Unit 3: Robotic Process Automation (RPA)
+1,188,Unit 3: Robotic Process Automation (RPA)
+1,189,Unit 3: Robotic Process Automation (RPA)
+1,190,Unit 3: Robotic Process Automation (RPA)
+1,191,Unit 3: Robotic Process Automation (RPA)
+1,192,Unit 3: Robotic Process Automation (RPA)
+1,193,Unit 3: Robotic Process Automation (RPA)
+1,194,Unit 3: Robotic Process Automation (RPA)
+1,195,Unit 3: Robotic Process Automation (RPA)
+1,196,Unit 3: Robotic Process Automation (RPA)
+1,197,Unit 3: Robotic Process Automation (RPA)
+1,198,Unit 3: Robotic Process Automation (RPA)
+1,199,Unit 3: Robotic Process Automation (RPA)
+1,200,Unit 3: Robotic Process Automation (RPA)
+1,201,Unit 3: Robotic Process Automation (RPA)
+1,202,Unit 3: Robotic Process Automation (RPA)
+1,203,Unit 3: Robotic Process Automation (RPA)
+1,204,Unit 3: Robotic Process Automation (RPA)
+1,205,Unit 3: Robotic Process Automation (RPA)
+1,206,Unit 3: Robotic Process Automation (RPA)
+1,207,Unit 3: Robotic Process Automation (RPA)
+1,208,Unit 3: Robotic Process Automation (RPA)
+1,209,Unit 3: Robotic Process Automation (RPA)
+1,210,Unit 3: Robotic Process Automation (RPA)
+1,211,Unit 3: Robotic Process Automation (RPA)
+1,212,Unit 3: Robotic Process Automation (RPA)
+1,213,Unit 3: Robotic Process Automation (RPA)
+1,214,Unit 3: Robotic Process Automation (RPA)
+1,215,Unit 3: Robotic Process Automation (RPA)
+1,216,Unit 3: Robotic Process Automation (RPA)
+1,217,Unit 3: Robotic Process Automation (RPA)
+1,218,Unit 3: Robotic Process Automation (RPA)
+1,219,Unit 3: Robotic Process Automation (RPA)
+1,220,Unit 3: Robotic Process Automation (RPA)
+1,221,Unit 3: Robotic Process Automation (RPA)
+1,222,Unit 3: Robotic Process Automation (RPA)
+1,223,Unit 3: Robotic Process Automation (RPA)
+1,224,Unit 3: Robotic Process Automation (RPA)
+1,225,Unit 3: Robotic Process Automation (RPA)
+1,226,Unit 3: Robotic Process Automation (RPA)
+1,227,Unit 3: Robotic Process Automation (RPA)
+1,228,Unit 3: Robotic Process Automation (RPA)
+1,229,Unit 3: Robotic Process Automation (RPA)
+1,230,Unit 3: Robotic Process Automation (RPA)
+1,231,Unit 3: Robotic Process Automation (RPA)
+1,232,Unit 3: Robotic Process Automation (RPA)
+1,233,Unit 3: Robotic Process Automation (RPA)
+1,234,Unit 3: Robotic Process Automation (RPA)
+1,235,Unit 3: Robotic Process Automation (RPA)
+1,236,Unit 3: Robotic Process Automation (RPA)
+1,237,Unit 3: Robotic Process Automation (RPA)
+1,238,Unit 3: Robotic Process Automation (RPA)
+1,239,Unit 3: Robotic Process Automation (RPA)
+1,240,Unit 3: Robotic Process Automation (RPA)
+1,241,Unit 4: Oracle Fusion ERP
+1,242,Unit 4: Oracle Fusion ERP
+1,243,Unit 4: Oracle Fusion ERP
+1,244,Unit 4: Oracle Fusion ERP
+1,245,Unit 4: Oracle Fusion ERP
+1,246,Unit 4: Oracle Fusion ERP
+1,247,Unit 4: Oracle Fusion ERP
+1,248,Unit 4: Oracle Fusion ERP
+1,249,Unit 4: Oracle Fusion ERP
+1,250,Unit 4: Oracle Fusion ERP
+1,251,Unit 4: Oracle Fusion ERP
+1,252,Unit 4: Oracle Fusion ERP
+1,253,Unit 4: Oracle Fusion ERP
+1,254,Unit 4: Oracle Fusion ERP
+1,255,Unit 4: Oracle Fusion ERP
+1,256,Unit 4: Oracle Fusion ERP
+1,257,Unit 4: Oracle Fusion ERP
+1,258,Unit 4: Oracle Fusion ERP
+1,259,Unit 4: Oracle Fusion ERP
+1,260,Unit 4: Oracle Fusion ERP
+1,261,Unit 4: Oracle Fusion ERP
+1,262,Unit 4: Oracle Fusion ERP
+1,263,Unit 4: Oracle Fusion ERP
+1,264,Unit 4: Oracle Fusion ERP
+1,265,Unit 4: Oracle Fusion ERP
+1,266,Unit 4: Oracle Fusion ERP
+1,267,Unit 4: Oracle Fusion ERP
+1,268,Unit 4: Oracle Fusion ERP
+1,269,Unit 4: Oracle Fusion ERP
+1,270,Unit 4: Oracle Fusion ERP
+1,271,Unit 4: Oracle Fusion ERP
+1,272,Unit 4: Oracle Fusion ERP
+1,273,Unit 4: Oracle Fusion ERP
+1,274,Unit 4: Oracle Fusion ERP
+1,275,Unit 4: Oracle Fusion ERP
+1,276,Unit 4: Oracle Fusion ERP
+1,277,Unit 4: Oracle Fusion ERP
+1,278,Unit 4: Oracle Fusion ERP
+1,279,Unit 4: Oracle Fusion ERP
+1,280,Unit 4: Oracle Fusion ERP
+1,281,Unit 5: Microsoft Dynamics 365
+1,282,Unit 5: Microsoft Dynamics 365
+1,283,Unit 5: Microsoft Dynamics 365
+1,284,Unit 5: Microsoft Dynamics 365
+1,285,Unit 5: Microsoft Dynamics 365
+1,286,Unit 5: Microsoft Dynamics 365
+1,287,Unit 5: Microsoft Dynamics 365
+1,288,Unit 5: Microsoft Dynamics 365
+1,289,Unit 5: Microsoft Dynamics 365
+1,290,Unit 5: Microsoft Dynamics 365
+1,291,Unit 5: Microsoft Dynamics 365
+1,292,Unit 5: Microsoft Dynamics 365
+1,293,Unit 5: Microsoft Dynamics 365
+1,294,Unit 5: Microsoft Dynamics 365
+1,295,Unit 5: Microsoft Dynamics 365
+1,296,Unit 5: Microsoft Dynamics 365
+1,297,Unit 5: Microsoft Dynamics 365
+1,298,Unit 5: Microsoft Dynamics 365
+1,299,Unit 5: Microsoft Dynamics 365
+1,300,Unit 5: Microsoft Dynamics 365
+1,301,Unit 5: Microsoft Dynamics 365
+1,302,Unit 5: Microsoft Dynamics 365
+1,303,Unit 5: Microsoft Dynamics 365
+1,304,Unit 5: Microsoft Dynamics 365
+1,305,Unit 5: Microsoft Dynamics 365
+1,306,Unit 5: Microsoft Dynamics 365
+1,307,Unit 5: Microsoft Dynamics 365
+1,308,Unit 5: Microsoft Dynamics 365
+1,309,Unit 5: Microsoft Dynamics 365
+1,310,Unit 5: Microsoft Dynamics 365
+1,311,Unit 5: Microsoft Dynamics 365
+1,312,Unit 5: Microsoft Dynamics 365
+1,313,Unit 5: Microsoft Dynamics 365
+1,314,Unit 5: Microsoft Dynamics 365
+1,315,Unit 5: Microsoft Dynamics 365
+1,316,Unit 5: Microsoft Dynamics 365
+1,317,Unit 5: Microsoft Dynamics 365
+1,318,Unit 5: Microsoft Dynamics 365
+1,319,Unit 5: Microsoft Dynamics 365
+1,320,Unit 5: Microsoft Dynamics 365
+1,321,Unit 1: Forensic Accounting and Fraud Detection
+1,322,Unit 1: Forensic Accounting and Fraud Detection
+1,323,Unit 1: Forensic Accounting and Fraud Detection
+1,324,Unit 1: Forensic Accounting and Fraud Detection
+1,325,Unit 1: Forensic Accounting and Fraud Detection
+1,326,Unit 1: Forensic Accounting and Fraud Detection
+1,327,Unit 1: Forensic Accounting and Fraud Detection
+1,328,Unit 1: Forensic Accounting and Fraud Detection
+1,329,Unit 1: Forensic Accounting and Fraud Detection
+1,330,Unit 1: Forensic Accounting and Fraud Detection
+1,331,Unit 1: Forensic Accounting and Fraud Detection
+1,332,Unit 1: Forensic Accounting and Fraud Detection
+1,333,Unit 1: Forensic Accounting and Fraud Detection
+1,334,Unit 1: Forensic Accounting and Fraud Detection
+1,335,Unit 1: Forensic Accounting and Fraud Detection
+1,336,Unit 1: Forensic Accounting and Fraud Detection
+1,337,Unit 1: Forensic Accounting and Fraud Detection
+1,338,Unit 1: Forensic Accounting and Fraud Detection
+1,339,Unit 1: Forensic Accounting and Fraud Detection
+1,340,Unit 1: Forensic Accounting and Fraud Detection
+1,341,Unit 2: Basics of Digital Forensic and Cyber Security
+1,342,Unit 2: Basics of Digital Forensic and Cyber Security
+1,343,Unit 2: Basics of Digital Forensic and Cyber Security
+1,344,Unit 2: Basics of Digital Forensic and Cyber Security
+1,345,Unit 2: Basics of Digital Forensic and Cyber Security
+1,346,Unit 2: Basics of Digital Forensic and Cyber Security
+1,347,Unit 2: Basics of Digital Forensic and Cyber Security
+1,348,Unit 2: Basics of Digital Forensic and Cyber Security
+1,349,Unit 2: Basics of Digital Forensic and Cyber Security
+1,350,Unit 2: Basics of Digital Forensic and Cyber Security
+1,351,Unit 2: Basics of Digital Forensic and Cyber Security
+1,352,Unit 2: Basics of Digital Forensic and Cyber Security
+1,353,Unit 2: Basics of Digital Forensic and Cyber Security
+1,354,Unit 2: Basics of Digital Forensic and Cyber Security
+1,355,Unit 2: Basics of Digital Forensic and Cyber Security
+1,356,Unit 2: Basics of Digital Forensic and Cyber Security
+1,357,Unit 2: Basics of Digital Forensic and Cyber Security
+1,358,Unit 2: Basics of Digital Forensic and Cyber Security
+1,359,Unit 2: Basics of Digital Forensic and Cyber Security
+1,360,Unit 2: Basics of Digital Forensic and Cyber Security
+1,361,Power BI
+1,362,Power BI
+1,363,Power BI
+1,364,Power BI
+1,365,Power BI
+1,366,Power BI
+1,367,Power BI
+1,368,Power BI
+1,369,Power BI
+1,370,Power BI
+1,371,Power BI
+1,372,Power BI
+1,373,Power BI
+1,374,Power BI
+1,375,Power BI
+1,376,Unit 2: Python
+1,377,Unit 2: Python
+1,378,Unit 2: Python
+1,379,Unit 2: Python
+1,380,Unit 2: Python
+1,381,Unit 2: Python
+1,382,Unit 2: Python
+1,383,Unit 2: Python
+1,384,Unit 2: Python
+1,385,Unit 2: Python
+1,386,Unit 3: KNIME
+1,387,Unit 3: KNIME
+1,388,Unit 3: KNIME
+1,389,Unit 3: KNIME
+1,390,Unit 3: KNIME
+1,391,Unit 3: KNIME
+1,392,Unit 3: KNIME
+1,393,Unit 3: KNIME
+1,394,Unit 3: KNIME
+1,395,Unit 3: KNIME
+1,396,Unit 3: KNIME
+1,397,Unit 3: KNIME
+1,398,Unit 3: KNIME
+1,399,Unit 3: KNIME
+1,400,Unit 3: KNIME
+1,401,Unit 3: KNIME
+1,402,Unit 3: KNIME
+1,403,Unit 3: KNIME
+1,404,Unit 3: KNIME
+1,405,Unit 3: KNIME
+1,406,Unit 3: KNIME
+1,407,Unit 3: KNIME
+1,408,Unit 3: KNIME
+1,409,Unit 3: KNIME
+1,410,Unit 3: KNIME
+1,411,Unit 3: KNIME
+1,412,Unit 3: KNIME
+1,413,Unit 3: KNIME
+1,414,Unit 3: KNIME
+1,415,Unit 3: KNIME
+1,416,Unit 3: KNIME
+1,417,Unit 3: KNIME
+1,418,Unit 3: KNIME
+1,419,Unit 3: KNIME
+1,420,Unit 3: KNIME
+1,421,Unit 3: KNIME
+1,422,Unit 3: KNIME
+1,423,Unit 3: KNIME
+1,424,Unit 3: KNIME
+1,425,Unit 3: KNIME
+1,426,Unit 2: Python
+1,427,Unit 2: Python
+1,428,Unit 2: Python
+1,429,Unit 2: Python
+1,430,Unit 2: Python
+1,431,Unit 2: Python
+1,432,Unit 2: Python
+1,433,Unit 2: Python
+1,434,Unit 2: Python
+1,435,Unit 2: Python
+1,436,Unit 3: KNIME
+1,437,Unit 3: KNIME
+1,438,Unit 3: KNIME
+1,439,Unit 3: KNIME
+1,440,Unit 3: KNIME
+1,441,Unit 3: KNIME
+1,442,Unit 3: KNIME
+1,443,Unit 3: KNIME
+1,444,Unit 3: KNIME
+1,445,Unit 3: KNIME
+1,446,Unit 3: KNIME
+1,447,Unit 3: KNIME
+1,448,Unit 3: KNIME
+1,449,Unit 3: KNIME
+1,450,Unit 3: KNIME
+1,451,Unit 3: KNIME
+1,452,Unit 3: KNIME
+1,453,Unit 3: KNIME
+1,454,Unit 3: KNIME
+1,455,Unit 3: KNIME
+1,456,Unit 3: KNIME
+1,457,Unit 3: KNIME
+1,458,Unit 3: KNIME
+1,459,Unit 3: KNIME
+1,460,Unit 3: KNIME
+1,461,Unit 3: KNIME
+1,462,Unit 3: KNIME
+1,463,Unit 3: KNIME
+1,464,Unit 3: KNIME
+1,465,Unit 3: KNIME
+1,466,Unit 3: KNIME
+1,467,Unit 3: KNIME
+1,468,Unit 3: KNIME
+1,469,Unit 3: KNIME
+1,470,Unit 3: KNIME
+1,471,Unit 3: KNIME
+1,472,Unit 3: KNIME
+1,473,Unit 3: KNIME
+1,474,Unit 3: KNIME
+1,475,Unit 3: KNIME
+1,476,Unit 2: Python
+1,477,Unit 2: Python
+1,478,Unit 2: Python
+1,479,Unit 2: Python
+1,480,Unit 2: Python
+1,481,Unit 2: Python
+1,482,Unit 2: Python
+1,483,Unit 2: Python
+1,484,Unit 2: Python
+1,485,Unit 2: Python
+1,486,Unit 3: KNIME
+1,487,Unit 3: KNIME
+1,488,Unit 3: KNIME
+1,489,Unit 3: KNIME
+1,490,Unit 3: KNIME
+1,491,Unit 3: KNIME
+1,492,Unit 3: KNIME
+1,493,Unit 3: KNIME
+1,494,Unit 3: KNIME
+1,495,Unit 3: KNIME
+1,496,Unit 3: KNIME
+1,497,Unit 3: KNIME
+1,498,Unit 3: KNIME
+1,499,Unit 3: KNIME
+1,500,Unit 3: KNIME
+1,501,Unit 3: KNIME
+1,502,Unit 3: KNIME
+1,503,Unit 3: KNIME
+1,504,Unit 3: KNIME
+1,505,Unit 3: KNIME
+1,506,Unit 3: KNIME
+1,507,Unit 3: KNIME
+1,508,Unit 3: KNIME
+1,509,Unit 3: KNIME
+1,510,Unit 3: KNIME
+1,511,Unit 3: KNIME
+1,512,Unit 3: KNIME
+1,513,Unit 3: KNIME
+1,514,Unit 3: KNIME
+1,515,Unit 3: KNIME
+1,516,Unit 3: KNIME
+1,517,Unit 3: KNIME
+1,518,Unit 3: KNIME
+1,519,Unit 3: KNIME
+1,520,Unit 3: KNIME
+1,521,Unit 3: KNIME
+1,522,Unit 3: KNIME
+1,523,Unit 3: KNIME
+1,524,Unit 3: KNIME
+1,525,Unit 3: KNIME
+1,526,Unit 2: Python
+1,527,Unit 2: Python
+1,528,Unit 2: Python
+1,529,Unit 2: Python
+1,530,Unit 2: Python
+1,531,Unit 2: Python
+1,532,Unit 2: Python
+1,533,Unit 2: Python
+1,534,Unit 2: Python
+1,535,Unit 2: Python
+1,536,Unit 3: KNIME
+1,537,Unit 3: KNIME
+1,538,Unit 3: KNIME
+1,539,Unit 3: KNIME
+1,540,Unit 3: KNIME
+1,541,Unit 3: KNIME
+1,542,Unit 3: KNIME
+1,543,Unit 3: KNIME
+1,544,Unit 3: KNIME
+1,545,Unit 3: KNIME
+1,546,Unit 3: KNIME
+1,547,Unit 3: KNIME
+1,548,Unit 3: KNIME
+1,549,Unit 3: KNIME
+1,550,Unit 3: KNIME
+1,551,Unit 3: KNIME
+1,552,Unit 3: KNIME
+1,553,Unit 3: KNIME
+1,554,Unit 3: KNIME
+1,555,Unit 3: KNIME
+1,556,Unit 3: KNIME
+1,557,Unit 3: KNIME
+1,558,Unit 3: KNIME
+1,559,Unit 3: KNIME
+1,560,Unit 3: KNIME
+1,561,Unit 3: KNIME
+1,562,Unit 3: KNIME
+1,563,Unit 3: KNIME
+1,564,Unit 3: KNIME
+1,565,Unit 3: KNIME
+1,566,Unit 3: KNIME
+1,567,Unit 3: KNIME
+1,568,Unit 3: KNIME
+1,569,Unit 3: KNIME
+1,570,Unit 3: KNIME
+1,571,Unit 3: KNIME
+1,572,Unit 3: KNIME
+1,573,Unit 3: KNIME
+1,574,Unit 3: KNIME
+1,575,Unit 3: KNIME
+1,576,Unit 3: KNIME
+1,577,Unit 3: KNIME
+1,578,Unit 3: KNIME
+1,579,Unit 3: KNIME
+1,580,Unit 3: KNIME
+1,581,Unit 3: KNIME
+1,582,Unit 3: KNIME
+1,583,Unit 3: KNIME
+1,584,Unit 3: KNIME
+1,585,Unit 3: KNIME
+1,586,Unit 3: KNIME
+1,587,Unit 3: KNIME
+1,588,Unit 3: KNIME
+1,589,Unit 3: KNIME
+1,590,Unit 3: KNIME
+1,591,Unit 2: Python
+1,592,Unit 2: Python
+1,593,Unit 2: Python
+1,594,Unit 2: Python
+1,595,Unit 2: Python
+1,596,Unit 2: Python
+1,597,Unit 2: Python
+1,598,Unit 2: Python
+1,599,Unit 2: Python
+1,600,Unit 2: Python
+1,601,Unit 2: Python
+1,602,Unit 2: Python
+1,603,Unit 2: Python
+1,604,Unit 2: Python
+1,605,Unit 2: Python
+1,606,Unit 2: Python
+1,607,Unit 2: Python
+1,608,Unit 2: Python
+1,609,Unit 2: Python
+1,610,Unit 2: Python
+1,611,Unit 2: Python
+1,612,Unit 2: Python
+1,613,Unit 2: Python
+1,614,Unit 2: Python
+1,615,Unit 2: Python
+1,616,Unit 2: Python
+1,617,Unit 2: Python
+1,618,Unit 2: Python
+1,619,Unit 2: Python
+1,620,Unit 2: Python
+1,621,Unit 3: KNIME
+1,622,Unit 3: KNIME
+1,623,Unit 3: KNIME
+1,624,Unit 3: KNIME
+1,625,Unit 3: KNIME
+1,626,Unit 3: KNIME
+1,627,Unit 3: KNIME
+1,628,Unit 3: KNIME
+1,629,Unit 3: KNIME
+1,630,Unit 3: KNIME
+1,631,Unit 3: KNIME
+1,632,Unit 3: KNIME
+1,633,Unit 3: KNIME
+1,634,Unit 3: KNIME
+1,635,Unit 3: KNIME
+1,636,Unit 3: KNIME
+1,637,Unit 3: KNIME
+1,638,Unit 3: KNIME
+1,639,Unit 3: KNIME
+1,640,Unit 3: KNIME
+1,641,Unit 3: KNIME
+1,642,Unit 3: KNIME
+1,643,Unit 3: KNIME
+1,644,Unit 3: KNIME
+1,645,Unit 3: KNIME
+1,646,Unit 3: KNIME
+1,647,Unit 3: KNIME
+1,648,Unit 3: KNIME
+1,649,Unit 3: KNIME
+1,650,Unit 3: KNIME
+1,651,Unit 3: KNIME
+1,652,Unit 3: KNIME
+1,653,Unit 3: KNIME
+1,654,Unit 3: KNIME
+1,655,Unit 3: KNIME
+1,656,Unit 3: KNIME
+1,657,Unit 3: KNIME
+1,658,Unit 3: KNIME
+1,659,Unit 3: KNIME
+1,660,Unit 3: KNIME
+1,661,Unit 3: KNIME
+1,662,Unit 3: KNIME
+1,663,Unit 3: KNIME
+1,664,Unit 3: KNIME
+1,665,Unit 3: KNIME
+1,666,Unit 3: KNIME
+1,667,Unit 3: KNIME
+1,668,Unit 3: KNIME
+1,669,Unit 3: KNIME
+1,670,Unit 3: KNIME
+1,671,Unit 3: KNIME
+1,672,Unit 3: KNIME
+1,673,Unit 3: KNIME
+1,674,Unit 3: KNIME
+1,675,Unit 3: KNIME
+1,676,Unit 3: KNIME
+1,677,Unit 3: KNIME
+1,678,Unit 3: KNIME
+1,679,Unit 3: KNIME
+1,680,Unit 3: KNIME
+1,681,Unit 3: KNIME
+1,682,Unit 3: KNIME
+1,683,Unit 3: KNIME
+1,684,Unit 3: KNIME
+1,685,Unit 3: KNIME
+1,686,Unit 3: KNIME
+1,687,Unit 3: KNIME
+1,688,Unit 3: KNIME
+1,689,Unit 3: KNIME
+1,690,Unit 3: KNIME
+1,691,Unit 2: Python
+1,692,Unit 2: Python
+1,693,Unit 2: Python
+1,694,Unit 2: Python
+1,695,Unit 2: Python
+1,696,Unit 2: Python
+1,697,Unit 2: Python
+1,698,Unit 2: Python
+1,699,Unit 2: Python
+1,700,Unit 2: Python
+1,701,Unit 2: Python
+1,702,Unit 2: Python
+1,703,Unit 2: Python
+1,704,Unit 2: Python
+1,705,Unit 2: Python
+1,706,Unit 2: Python
+1,707,Unit 2: Python
+1,708,Unit 2: Python
+1,709,Unit 2: Python
+1,710,Unit 2: Python
+1,711,Unit 2: Python
+1,712,Unit 2: Python
+1,713,Unit 2: Python
+1,714,Unit 2: Python
+1,715,Unit 2: Python
+1,716,Unit 2: Python
+1,717,Unit 2: Python
+1,718,Unit 2: Python
+1,719,Unit 2: Python
+1,720,Unit 2: Python
+1,721,Unit 3: KNIME
+1,722,Unit 3: KNIME
+1,723,Unit 3: KNIME
+1,724,Unit 3: KNIME
+1,725,Unit 3: KNIME
+1,726,Unit 3: KNIME
+1,727,Unit 3: KNIME
+1,728,Unit 3: KNIME
+1,729,Unit 3: KNIME
+1,730,Unit 3: KNIME
+1,731,Unit 3: KNIME
+1,732,Unit 3: KNIME
+1,733,Unit 3: KNIME
+1,734,Unit 3: KNIME
+1,735,Unit 3: KNIME
+1,736,Unit 3: KNIME
+1,737,Unit 3: KNIME
+1,738,Unit 3: KNIME
+1,739,Unit 3: KNIME
+1,740,Unit 3: KNIME
+1,741,Unit 3: KNIME
+1,742,Unit 3: KNIME
+1,743,Unit 3: KNIME
+1,744,Unit 3: KNIME
+1,745,Unit 3: KNIME
+1,746,Unit 3: KNIME
+1,747,Unit 3: KNIME
+1,748,Unit 3: KNIME
+1,749,Unit 3: KNIME
+1,750,Unit 3: KNIME
+1,751,Unit 3: KNIME
+1,752,Unit 3: KNIME
+1,753,Unit 3: KNIME
+1,754,Unit 3: KNIME
+1,755,Unit 3: KNIME
+1,756,Unit 3: KNIME
+1,757,Unit 3: KNIME
+1,758,Unit 3: KNIME
+1,759,Unit 3: KNIME
+1,760,Unit 3: KNIME

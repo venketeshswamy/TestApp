@@ -1,0 +1,237 @@
+CaseStudyNo,Qno,Chapter
+1,1,Portfolio Management
+1,2,Portfolio Management
+1,3,Portfolio Management
+1,4,Portfolio Management
+1,5,Portfolio Management
+2,1,Mutual Funds
+2,2,Mutual Funds
+2,3,Mutual Funds
+3,1,Derivatives Analysis and Valuation
+3,2,Derivatives Analysis and Valuation
+3,3,Derivatives Analysis and Valuation
+4,1,Foreign Exchange Exposure and Risk Management
+4,2,Foreign Exchange Exposure and Risk Management
+4,3,Foreign Exchange Exposure and Risk Management
+4,4,Foreign Exchange Exposure and Risk Management
+5,1,Advanced Capital Budgeting Decision
+5,2,Advanced Capital Budgeting Decision
+5,3,Advanced Capital Budgeting Decision
+6,1,Mutual Funds
+6,2,Mutual Funds
+6,3,Mutual Funds
+7,1,Derivatives Analysis and Valuation
+7,2,Derivatives Analysis and Valuation
+7,3,Derivatives Analysis and Valuation
+8,1,Foreign Exchange Exposure and Risk Management
+8,2,Foreign Exchange Exposure and Risk Management
+8,3,Foreign Exchange Exposure and Risk Management
+9,1,"Mergers, Acquisitions and Corporate Restructuring"
+9,2,"Mergers, Acquisitions and Corporate Restructuring"
+9,3,"Mergers, Acquisitions and Corporate Restructuring"
+10,1,Derivatives Analysis and Valuation
+10,2,Derivatives Analysis and Valuation
+10,3,Derivatives Analysis and Valuation
+11,1,"Mergers, Acquisitions and Corporate Restructuring"
+11,2,"Mergers, Acquisitions and Corporate Restructuring"
+11,3,"Mergers, Acquisitions and Corporate Restructuring"
+11,4,"Mergers, Acquisitions and Corporate Restructuring"
+12,1,Financial Policy and Corporate Strategy
+12,2,Financial Policy and Corporate Strategy
+12,3,Financial Policy and Corporate Strategy
+12,4,Financial Policy and Corporate Strategy
+12,5,Financial Policy and Corporate Strategy
+13,1,Security Valuation
+13,2,Security Valuation
+13,3,Security Valuation
+13,4,Security Valuation
+13,5,Security Valuation
+14,1,Security Valuation
+14,2,Security Valuation
+14,3,Security Valuation
+14,4,Security Valuation
+15,1,Security Valuation
+15,2,Security Valuation
+15,3,Security Valuation
+15,4,Security Valuation
+16,1,Derivatives Analysis and Valuation
+16,2,Derivatives Analysis and Valuation
+16,3,Derivatives Analysis and Valuation
+16,4,Derivatives Analysis and Valuation
+16,5,Derivatives Analysis and Valuation
+17,1,"Mergers, Acquisitions and Corporate Restructuring"
+17,2,"Mergers, Acquisitions and Corporate Restructuring"
+17,3,"Mergers, Acquisitions and Corporate Restructuring"
+18,1,Interest Rate Risk Management
+18,2,Interest Rate Risk Management
+18,3,Interest Rate Risk Management
+18,4,Interest Rate Risk Management
+18,5,Interest Rate Risk Management
+19,1,Foreign Exchange Exposure and Risk Management
+19,2,Foreign Exchange Exposure and Risk Management
+19,3,Foreign Exchange Exposure and Risk Management
+19,4,Foreign Exchange Exposure and Risk Management
+19,5,Foreign Exchange Exposure and Risk Management
+20,1,Portfolio Management
+20,2,Portfolio Management
+20,3,Portfolio Management
+20,4,Portfolio Management
+20,5,Portfolio Management
+21,1,Advanced Capital Budgeting Decision
+21,2,Advanced Capital Budgeting Decision
+21,3,Advanced Capital Budgeting Decision
+22,1,Derivatives Analysis and Valuation
+22,2,Derivatives Analysis and Valuation
+22,3,Derivatives Analysis and Valuation
+23,1,Security Valuation
+23,2,Security Valuation
+23,3,Security Valuation
+23,4,Security Valuation
+24,1,Portfolio Management
+24,2,Portfolio Management
+24,3,Portfolio Management
+25,1,"Mergers, Acquisitions and Corporate Restructuring"
+25,2,"Mergers, Acquisitions and Corporate Restructuring"
+25,3,"Mergers, Acquisitions and Corporate Restructuring"
+25,4,"Mergers, Acquisitions and Corporate Restructuring"
+26,1,Mutual Funds
+26,2,Mutual Funds
+26,3,Mutual Funds
+26,4,Mutual Funds
+27,1,Security Valuation
+27,2,Security Valuation
+27,3,Security Valuation
+27,4,Security Valuation
+28,1,Security Analysis
+28,2,Security Analysis
+28,3,Security Analysis
+29,1,"Mergers, Acquisitions and Corporate Restructuring"
+29,2,"Mergers, Acquisitions and Corporate Restructuring"
+29,3,"Mergers, Acquisitions and Corporate Restructuring"
+29,4,"Mergers, Acquisitions and Corporate Restructuring"
+30,1,Financial Policy and Corporate Strategy
+30,2,Financial Policy and Corporate Strategy
+30,3,Financial Policy and Corporate Strategy
+30,4,Financial Policy and Corporate Strategy
+30,5,Financial Policy and Corporate Strategy
+31,1,Foreign Exchange Exposure and Risk Management
+31,2,Foreign Exchange Exposure and Risk Management
+31,3,Foreign Exchange Exposure and Risk Management
+31,4,Foreign Exchange Exposure and Risk Management
+31,5,Foreign Exchange Exposure and Risk Management
+32,1,International Financial Management
+32,2,International Financial Management
+32,3,International Financial Management
+32,4,International Financial Management
+32,5,International Financial Management
+33,1,Financial Policy and Corporate Strategy
+33,2,Financial Policy and Corporate Strategy
+33,3,Financial Policy and Corporate Strategy
+33,4,Financial Policy and Corporate Strategy
+33,5,Financial Policy and Corporate Strategy
+34,1,Securitization
+34,2,Securitization
+34,3,Securitization
+34,4,Securitization
+34,5,Securitization
+35,1,Security Analysis
+35,2,Security Analysis
+35,3,Security Analysis
+35,4,Security Analysis
+35,5,Security Analysis
+36,1,Interest Rate Risk Management
+36,2,Interest Rate Risk Management
+36,3,Interest Rate Risk Management
+36,4,Interest Rate Risk Management
+36,5,Interest Rate Risk Management
+37,1,Portfolio Management
+37,2,Portfolio Management
+37,3,Portfolio Management
+37,4,Portfolio Management
+37,5,Portfolio Management
+38,1,Mutual Funds
+38,2,Mutual Funds
+38,3,Mutual Funds
+38,4,Mutual Funds
+38,5,Mutual Funds
+39,1,Mutual Funds
+39,2,Mutual Funds
+39,3,Mutual Funds
+39,4,Mutual Funds
+39,5,Mutual Funds
+40,1,Derivatives Analysis and Valuation
+40,2,Derivatives Analysis and Valuation
+40,3,Derivatives Analysis and Valuation
+40,4,Derivatives Analysis and Valuation
+40,5,Derivatives Analysis and Valuation
+41,1,Risk Management
+41,2,Risk Management
+41,3,Risk Management
+41,4,Risk Management
+41,5,Risk Management
+42,1,Advanced Capital Budgeting Decision
+42,2,Advanced Capital Budgeting Decision
+42,3,Advanced Capital Budgeting Decision
+42,4,Advanced Capital Budgeting Decision
+42,5,Advanced Capital Budgeting Decision
+43,1,Interest Rate Risk Management
+43,2,Interest Rate Risk Management
+43,3,Interest Rate Risk Management
+43,4,Interest Rate Risk Management
+43,5,Interest Rate Risk Management
+44,1,Financial Policy and Corporate Strategy
+44,2,Financial Policy and Corporate Strategy
+44,3,Financial Policy and Corporate Strategy
+44,4,Financial Policy and Corporate Strategy
+44,5,Financial Policy and Corporate Strategy
+45,1,Foreign Exchange Exposure and Risk Management
+45,2,Foreign Exchange Exposure and Risk Management
+45,3,Foreign Exchange Exposure and Risk Management
+45,4,Foreign Exchange Exposure and Risk Management
+45,5,Foreign Exchange Exposure and Risk Management
+46,1,Risk Management
+46,2,Risk Management
+46,3,Risk Management
+46,4,Risk Management
+46,5,Risk Management
+47,1,Advanced Capital Budgeting Decision
+47,2,Advanced Capital Budgeting Decision
+47,3,Advanced Capital Budgeting Decision
+47,4,Advanced Capital Budgeting Decision
+47,5,Advanced Capital Budgeting Decision
+48,1,Portfolio Management
+48,2,Portfolio Management
+48,3,Portfolio Management
+48,4,Portfolio Management
+48,5,Portfolio Management
+49,1,Foreign Exchange Exposure and Risk Management
+49,2,Foreign Exchange Exposure and Risk Management
+49,3,Foreign Exchange Exposure and Risk Management
+49,4,Foreign Exchange Exposure and Risk Management
+49,5,Foreign Exchange Exposure and Risk Management
+50,1,Interest Rate Risk Management
+50,2,Interest Rate Risk Management
+50,3,Interest Rate Risk Management
+50,4,Interest Rate Risk Management
+51,1,Financial Policy and Corporate Strategy
+51,2,Financial Policy and Corporate Strategy
+51,3,Financial Policy and Corporate Strategy
+51,4,Financial Policy and Corporate Strategy
+51,5,Financial Policy and Corporate Strategy
+52,1,"Mergers, Acquisitions and Corporate Restructuring"
+52,2,"Mergers, Acquisitions and Corporate Restructuring"
+52,3,"Mergers, Acquisitions and Corporate Restructuring"
+53,1,Derivatives Analysis and Valuation
+53,2,Derivatives Analysis and Valuation
+53,3,Derivatives Analysis and Valuation
+54,1,Security Valuation
+54,2,Security Valuation
+54,3,Security Valuation
+55,1,Security Valuation
+55,2,Security Valuation
+55,3,Security Valuation
+56,1,"Mergers, Acquisitions and Corporate Restructuring"
+56,2,"Mergers, Acquisitions and Corporate Restructuring"
+56,3,"Mergers, acquisitions and Corporate Restructuring"
+56,4,"Mergers, Acquisitions and Corporate Restructuring"
+56,5,"Mergers, Acquisitions and Corporate Restructuring"
