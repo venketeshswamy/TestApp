@@ -11,6 +11,7 @@ Access the live application here: **[https://venketeshswamy.github.io/TestApp/](
     *   `AUDIT` / `AUDITM26EXTRAS` (Auditing)
     *   `FR` (Financial Reporting)
     *   `IDT` (Indirect Tax Laws)
+    *   `DT` (Direct Tax Laws)
     *   `SPOMSETA` / `SPOMSETB` (Self-Paced Online Modules Set A & B)
 ### Quiz Subject Folder Contents:
 Each subject folder inside `QUIZZES/` contains:
